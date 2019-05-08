@@ -1,0 +1,13 @@
+name: ShinyApp
+title: ShinyApp
+username:
+account: twitterflucomparison
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 777706
+bundleId: 1926970
+url: https://twitterflucomparison.shinyapps.io/ShinyApp/
+when: 1552106572.57409
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|Part3.R|tweets.csv|.ipynb_checkpoints/Lab1Part3-checkpoint.ipynb|.ipynb_checkpoints/Untitled-checkpoint.ipynb
